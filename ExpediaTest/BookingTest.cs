@@ -8,6 +8,9 @@ namespace ExpediaTest
 {
 	[TestFixture()]
 	public class BookingTest
+
 	{
+
+
 	}
 }
